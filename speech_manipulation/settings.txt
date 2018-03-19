@@ -1,0 +1,4 @@
+Settings for: 	Pitch setting 	Pitch range setting 
+"male:"	129.70011030833518	 115.99816105805353
+ "female:"	220.16190679748365	 189.1081960579706
+ 
