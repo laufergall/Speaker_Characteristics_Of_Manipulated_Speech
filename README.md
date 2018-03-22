@@ -6,9 +6,9 @@ By Laura Fernandez Gallardo and Benjamin Weiss. Thanks to Elvira Ibragimova for 
 
 ## Speech manipulation
 
-Selection of speakers from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus) to be manipulated (originally positively and negatively perceived) by Benjamin Weiss.
+Selecting speakers from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus) to be manipulated (originally positively and negatively perceived): by Benjamin Weiss. Benjamin also manipulated "manually" some files which had artefacts when manipulated with Praat: m041_bucharest (pitch), m041_bucharest (pitch and pitch range), m090_riyadh (pitch).
 
-[Praat](http://www.fon.hum.uva.nl/praat/) scripts for speecg manipulation written by Elvira Ibragimova. 
+[Praat](http://www.fon.hum.uva.nl/praat/) scripts for speech manipulation: written by Elvira Ibragimova. 
 
 
 
@@ -16,11 +16,17 @@ Selection of speakers from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-c
 
 (TODO)
 
+Listening tests have been conducted with ..... participants who rated  .... and .... of manipulated speech.
+
+overview of manipulation conditions.
+
 
 
 ## Data analysis
 
 (TODO)
+
+With the results of the listening tests.
 
 
 
