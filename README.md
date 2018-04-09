@@ -16,7 +16,7 @@ Selecting speakers from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corp
 
 (TODO)
 
-Listening tests have been conducted with ..... participants who rated  .... and .... of manipulated speech.
+[Listening tests](https://github.com/laufergall/Speaker_Characteristics_Of_Manipulated_Speech/tree/master/listening_test) have been conducted with ..... participants who rated  .... and .... of manipulated speech.
 
 overview of manipulation conditions.
 

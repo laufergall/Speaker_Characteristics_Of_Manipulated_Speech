@@ -2,24 +2,24 @@
 
 ### Goal
 
-To assess the effects of manipulated speech (pitch, pitch range and formant shifts) on speaker attributions (warmth-attractiveness).
+To assess the effects of manipulated speech (pitch, pitch range and formant shifts) on speakers' attributed warmth.
 
 
 
 ### Speech stimuli
 
-Speakers (from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus)):
+Speakers (from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus)) chosen according to their pitch and pitch range values, and to their [previously attributed warmth](https://github.com/laufergall/Subjective_Speaker_Characteristics/tree/master/doc/listening_tests):
 
-* Females, positive WAAT: 
+* Females, positive warmth: 
   * w102_aden
   * w257_nasinu
-* Females, negative WAAT: 
+* Females, negative warmth: 
   * w161_vaitele
   * w266_turkmenabat
-* Males, positive WAAT:
+* Males, positive warmth:
   * m041_bucharest
   * m097_basseterre
-* Males, negative WAAT:
+* Males, negative warmth:
   * m090_riyadh
   * m294_portauprince
 
@@ -45,11 +45,7 @@ Total: 8 speakers x 5 conditions = 40 speech stimuli.
 
 Content: "Ich hab in meinem Vertrag viele Frei-SMS, die benutze ich aber kaum. Ich würde auf die SMS gern verzichten und meine Frei-Minuten dafür erhöhen" (Turn 2b of scripted dialogs of the NSC corpus).
 
-
-
-(TODO)
-
-Average duration of these files  in seconds
+Mean duration: 6.9 s (stdev = 0.6 s), min = 5.7 s, max = 7.9 s.
 
 
 
@@ -61,7 +57,9 @@ How many participants, age, mother tongue...
 
 ### GUI
 
-(include screenshot)
+Programmed in java, adapting [this](https://github.com/laufergall/GUI_SpeakerCharacteristics) other GUI to the current listening test.
+
+A screenshot of the GUI can be seen in screenshot.png.
 
 
 
@@ -71,4 +69,6 @@ gefuehlskalt --------- (continuous slider) ----------- herzlich
 
 
 
-(In English: cold --- hearty)
+The task for the listeners was to listen to the speech and indicate a value from "cold" to "hearty" in a continuous scale, according to their perception of the speaker.
+
+

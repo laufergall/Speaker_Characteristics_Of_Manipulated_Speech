@@ -1,0 +1,1 @@
+Log and output files are generated here - one log and one output file for each listener that performs the auditory test.
