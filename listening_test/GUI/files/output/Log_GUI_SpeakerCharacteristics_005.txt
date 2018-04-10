@@ -1,0 +1,333 @@
+- - - - - - Test part : Males - - - - - -
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+
+Playing filename: m090_riyadh_d2_2b_04_Pitch40Hz_Down.wav
+File duration (ms): 7590
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:52
+SliderNumber:0,  Value:53
+SliderNumber:0,  Value:54
+SliderNumber:0,  Value:55
+SliderNumber:0,  Value:56
+SliderNumber:0,  Value:57
+SliderNumber:0,  Value:56
+SliderNumber:0,  Value:55
+SliderNumber:0,  Value:54
+SliderNumber:0,  Value:53
+SliderNumber:0,  Value:52
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:48
+SliderNumber:0,  Value:47
+SliderNumber:0,  Value:48
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:52
+SliderNumber:0,  Value:53
+SliderNumber:0,  Value:54
+SliderNumber:0,  Value:55
+SliderNumber:0,  Value:56
+SliderNumber:0,  Value:57
+SliderNumber:0,  Value:58
+SliderNumber:0,  Value:59
+SliderNumber:0,  Value:60
+SliderNumber:0,  Value:61
+SliderNumber:0,  Value:62
+SliderNumber:0,  Value:64
+SliderNumber:0,  Value:66
+SliderNumber:0,  Value:67
+SliderNumber:0,  Value:68
+SliderNumber:0,  Value:69
+SliderNumber:0,  Value:69
+69
+SliderNumber:0,  Value:50
+
+Playing filename: m097_basseterre_d2_2b_02_Pitch40Hz_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:75
+SliderNumber:0,  Value:75
+75
+SliderNumber:0,  Value:50
+
+Playing filename: m097_basseterre_d2_2b_02_Range_Factor_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:85
+SliderNumber:0,  Value:85
+85
+SliderNumber:0,  Value:50
+
+Playing filename: m090_riyadh_d2_2b_04.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:45
+SliderNumber:0,  Value:45
+45
+SliderNumber:0,  Value:50
+
+Playing filename: m097_basseterre_d2_2b_02_Pitch40Hz_Up_FactorRange_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:50
+50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+
+Playing filename: m041_bucharest_d2_2b_04_cut_shift11f40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:48
+SliderNumber:0,  Value:48
+48
+SliderNumber:0,  Value:50
+
+Playing filename: m294_portauprince_d2_2b_08_Pitch40Hz_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:12
+SliderNumber:0,  Value:12
+12
+SliderNumber:0,  Value:50
+
+Playing filename: m090_riyadh_d2_2b_04_Pitch40Hz_Down_FactorRange_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:50
+50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+
+Playing filename: m294_portauprince_d2_2b_08_Range_Factor_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:20
+SliderNumber:0,  Value:20
+20
+SliderNumber:0,  Value:50
+
+Playing filename: m294_portauprince_d2_2b_08_shift09F-40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:49
+49
+SliderNumber:0,  Value:50
+
+Playing filename: m041_bucharest_d2_2b_04_cut_Range_Factor_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:86
+SliderNumber:0,  Value:86
+86
+SliderNumber:0,  Value:50
+
+Playing filename: m090_riyadh_d2_2b_04_shift09F-40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:6
+SliderNumber:0,  Value:6
+6
+SliderNumber:0,  Value:50
+
+Playing filename: m041_bucharest_d2_2b_04_cut_Pitch40Hz_Up-new.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:98
+SliderNumber:0,  Value:98
+98
+SliderNumber:0,  Value:50
+
+Playing filename: m041_bucharest_d2_2b_04_cut.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:62
+SliderNumber:0,  Value:62
+62
+SliderNumber:0,  Value:50
+
+Playing filename: m097_basseterre_d2_2b_02.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:46
+SliderNumber:0,  Value:46
+46
+SliderNumber:0,  Value:50
+
+Playing filename: m041_bucharest_d2_2b_04_cut_Pitch40Hz_Up-FactorRange_0_4_Down-new.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:62
+SliderNumber:0,  Value:62
+62
+SliderNumber:0,  Value:50
+
+Playing filename: m090_riyadh_d2_2b_04_Range_Factor_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:17
+SliderNumber:0,  Value:17
+17
+SliderNumber:0,  Value:50
+
+Playing filename: m294_portauprince_d2_2b_08.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:28
+SliderNumber:0,  Value:28
+28
+SliderNumber:0,  Value:50
+
+Playing filename: m097_basseterre_d2_2b_02_shift11f40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:40
+SliderNumber:0,  Value:40
+40
+SliderNumber:0,  Value:50
+
+Playing filename: m294_portauprince_d2_2b_08_Pitch40Hz_Down_FactorRange_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:61
+SliderNumber:0,  Value:61
+61
+SliderNumber:0,  Value:50
+- - - - - - Test part : Females - - - - - -
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+
+Playing filename: w102_aden_d2_2b_05_shift11f40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:22
+SliderNumber:0,  Value:22
+22
+SliderNumber:0,  Value:50
+
+Playing filename: w266_turkmenabat_d2_2b_07_Range_Factor_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:33
+SliderNumber:0,  Value:33
+33
+SliderNumber:0,  Value:50
+
+Playing filename: w102_aden_d2_2b_05.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:25
+SliderNumber:0,  Value:25
+25
+SliderNumber:0,  Value:50
+
+Playing filename: w161_vaitele_d2_2b_05_Pitch40Hz_Down_FactorRange_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:68
+SliderNumber:0,  Value:68
+68
+SliderNumber:0,  Value:50
+
+Playing filename: w266_turkmenabat_d2_2b_07_shift09f-40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:1
+SliderNumber:0,  Value:1
+1
+SliderNumber:0,  Value:50
+
+Playing filename: w102_aden_d2_2b_05_Pitch40Hz_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:27
+SliderNumber:0,  Value:27
+27
+SliderNumber:0,  Value:50
+
+Playing filename: w257_nasinu_d2_2b_13_shift1140.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:61
+SliderNumber:0,  Value:61
+61
+SliderNumber:0,  Value:50
+
+Playing filename: w266_turkmenabat_d2_2b_07_Pitch40Hz_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:49
+SliderNumber:0,  Value:49
+49
+SliderNumber:0,  Value:50
+
+Playing filename: w102_aden_d2_2b_05_Range_Factor_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:34
+SliderNumber:0,  Value:34
+34
+SliderNumber:0,  Value:50
+
+Playing filename: w257_nasinu_d2_2b_13.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:66
+SliderNumber:0,  Value:66
+66
+SliderNumber:0,  Value:50
+
+Playing filename: w266_turkmenabat_d2_2b_07.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:50
+50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:50
+
+Playing filename: w257_nasinu_d2_2b_13_Pitch40Hz_Up_FactorRange_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:64
+SliderNumber:0,  Value:64
+64
+SliderNumber:0,  Value:50
+
+Playing filename: w161_vaitele_d2_2b_05.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:80
+SliderNumber:0,  Value:80
+80
+SliderNumber:0,  Value:50
+
+Playing filename: w161_vaitele_d2_2b_05_shift09F-40.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:51
+SliderNumber:0,  Value:51
+51
+SliderNumber:0,  Value:50
+
+Playing filename: w161_vaitele_d2_2b_05_Pitch40Hz_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:73
+SliderNumber:0,  Value:73
+SliderNumber:0,  Value:73
+SliderNumber:0,  Value:64
+SliderNumber:0,  Value:64
+64
+SliderNumber:0,  Value:50
+
+Playing filename: w161_vaitele_d2_2b_05_Range_Factor_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:65
+SliderNumber:0,  Value:65
+65
+SliderNumber:0,  Value:50
+
+Playing filename: w266_turkmenabat_d2_2b_07_Pitch40Hz_Down_FactorRange_0.4_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:21
+SliderNumber:0,  Value:21
+21
+SliderNumber:0,  Value:50
+
+Playing filename: w102_aden_d2_2b_05_Pitch40Hz_Up_FactorRange_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:77
+SliderNumber:0,  Value:77
+77
+SliderNumber:0,  Value:50
+
+Playing filename: w257_nasinu_d2_2b_13_Range_Factor_0.4_Down.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:84
+SliderNumber:0,  Value:84
+84
+SliderNumber:0,  Value:50
+
+Playing filename: w257_nasinu_d2_2b_13_Pitch40Hz_Up.wav
+SliderNumber:0,  Value:50
+SliderNumber:0,  Value:85
+SliderNumber:0,  Value:85
+85
