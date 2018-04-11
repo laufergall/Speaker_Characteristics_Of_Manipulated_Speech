@@ -14,11 +14,9 @@ Selecting speakers from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corp
 
 ## Listening test
 
-(TODO)
+[Listening tests](https://github.com/laufergall/Speaker_Characteristics_Of_Manipulated_Speech/tree/master/listening_test) have been conducted with 7 participants (5m, 2f) who rated perceived warmth (on the scale "cold----hearty") of manipulated speech. They were aged 27 years on average (stdev = 2.3, range: 23-30). Their mother tongue was different: Croatian, Bangla, Polish, Nepalese, Spanish, German, Dutch.
 
-[Listening tests](https://github.com/laufergall/Speaker_Characteristics_Of_Manipulated_Speech/tree/master/listening_test) have been conducted with ..... participants who rated  .... and .... of manipulated speech.
-
-overview of manipulation conditions.
+The speech stimuli consisted of 8 speakers and 5 manipulation conditions. These involved the variation of: mean pitch, pitch range, combination of mean pitch and pitch range, combination of mean pitch and formant shift.
 
 
 

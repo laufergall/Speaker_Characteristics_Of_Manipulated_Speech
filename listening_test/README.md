@@ -51,7 +51,7 @@ Mean duration: 6.9 s (stdev = 0.6 s), min = 5.7 s, max = 7.9 s.
 
 ### Participants
 
-How many participants, age, mother tongue...
+[Listening tests](https://github.com/laufergall/Speaker_Characteristics_Of_Manipulated_Speech/tree/master/listening_test) have been conducted with 7 participants (5m, 2f) who rated perceived warmth (on the scale "cold----hearty") of manipulated speech. They were aged 27 years on average (stdev = 2.3, range: 23-30). Their mother tongue was different: Croatian, Bangla, Polish, Nepalese, Spanish, German, Dutch.
 
 
 
