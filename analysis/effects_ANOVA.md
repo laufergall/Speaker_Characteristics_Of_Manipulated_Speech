@@ -6,6 +6,7 @@ April 2018
 -   [Objectives](#objectives)
 -   [3-way repeated measures ANOVA](#way-repeated-measures-anova)
 -   [Boxplots across conditions](#boxplots-across-conditions)
+-   [Future work](#future-work)
 
 ``` r
 # Libraries needed:
@@ -73,6 +74,8 @@ summary(mydata)
 #
 #unique(mydata$languageListener)
 ```
+
+7 listeners (5m, 5f) of different mother tongues. 5 conditions and 8 speakers: 40 speech stimuli.
 
 3-way repeated measures ANOVA
 -----------------------------
@@ -165,3 +168,10 @@ We can observe that:
 -   Manipulations of F0 mean and F0 range (combined) makes almost no different with respect to ratings to original speech.
 
 -   Manipulations of F0 mean and formant shift: increasing the mean F0 and forman frequencies of high-WAAT speakers and lowering the mean F0 and forman frequencies of low-WAAT speakers leads to a more negative perception of their warmth.
+
+Future work
+-----------
+
+In view of these results, our hypothesis that high-WAAT speakers would be perceived as less warm with an increase of F0 mean and decrease of F0 range is not met. Lowering F0 mean did not contribute of the perception of low-WAAT speakers as warmer. Only the increase of F0 range of low-WAAT speakers caused these voices to be perceived as warmer.
+
+Hence, a different listening test is proposed for future work, in which voices will be presented in a paired-comparison setup. Original and manipulated speech segments corresponding to the same speaker will be presented, and the listeners will be asked to select that segment presenting higher warmth. This paradigm is expected to offer more conclusive insights and meet our initial hypothesis.

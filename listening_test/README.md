@@ -8,7 +8,7 @@ To assess the effects of manipulated speech (pitch, pitch range and formant shif
 
 ### Speech stimuli
 
-Speakers (from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus)) chosen according to their pitch and pitch range values, and to their [previously attributed warmth](https://github.com/laufergall/Subjective_Speaker_Characteristics/tree/master/doc/listening_tests):
+Speakers (from the [NSC corpus](http://www.qu.tu-berlin.de/?id=nsc-corpus)) chosen according to their pitch and pitch range values, and to their [previously attributed warmth](https://github.com/laufergall/Subjective_Speaker_Characteristics/tree/master/doc/listening_tests) (WAAT: warmth-attractiveness):
 
 * Females, positive warmth: 
   * w102_aden
